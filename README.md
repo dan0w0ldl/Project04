@@ -5,3 +5,4 @@ Project 04 version1 completed
 
 2nd Team Member: 최수민
 2nd Team Member: 20238033
+Project 04 version2 completed
